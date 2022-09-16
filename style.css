@@ -28,7 +28,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("assets/BGbanner.jpg");
+    background: url("assets/bgbanner.png");
     background-size: cover;
 }
 
