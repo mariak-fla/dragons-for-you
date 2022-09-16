@@ -101,8 +101,8 @@ header .logo {
     text-decoration: none;
 }
 
-header .logo span {
-    color: #d00000;
+span {
+    color:#d00000;
 }
 
 header .navigation {
@@ -158,7 +158,6 @@ section {
 }
 
 .titleText span {
-    color: #d00000;
     font-weight: 300;
 }
 
@@ -287,6 +286,7 @@ section {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    border-radius: 8px;
 }
 
 .testimonials .content .box .imgBx {
@@ -390,7 +390,7 @@ section {
 .copyrightText a {
     color: #d00000;
     font-weight: 700;
-    transition: 0.2s;
+    transition: 0.5s;
 }
 
 .copyrightText a:hover {
