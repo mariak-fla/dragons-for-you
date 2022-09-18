@@ -30,6 +30,7 @@ body {
     align-items: center;
     background: url("assets/bgbanner.png");
     background-size: cover;
+    background-position: center;
 }
 
 .banner .content {
@@ -93,6 +94,10 @@ header.sticky .logo {
     color: black;
 }
 
+header.sticky .logo span {
+    color:#d00000;
+}
+
 header .logo {
     font-family: 'montserrat', sans-serif;
     color: white;
@@ -101,9 +106,13 @@ header .logo {
     text-decoration: none;
 }
 
-span {
+header .logo span {
     color:#d00000;
 }
+/*
+span {
+    color:#d00000;
+}*/
 
 header .navigation {
     position: relative;
@@ -150,6 +159,11 @@ section {
     width: 48%;
 }
 
+.about p span {
+    font-family: 'montserrat', sans-serif;
+    font-weight: 700;
+}
+
 .titleText {
     color: black;
     font-size: 2em;
@@ -159,6 +173,7 @@ section {
 
 .titleText span {
     font-weight: 300;
+    color:#d00000;
 }
 
 .row .col50 .imgBx {
@@ -263,6 +278,7 @@ section {
 .testimonials {
     background: url(assets/bg2.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 .white .titleText, .white p {
@@ -325,6 +341,7 @@ section {
 .contact {
     background: url(assets/bg3.jpg);
     background-size: cover;
+    background-position: right;
 }
 
 .contactForm {
