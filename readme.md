@@ -14,7 +14,7 @@ Responsive/mobile friendly website project based on [this tutorial](https://www.
 
 🔗 [Click here to check it out](https://mariak-fla.github.io/dragons-for-you/)
 
-## 🚀 Tecnologias
+## ⚙️ Languages
 
 - HTML
 - CSS
